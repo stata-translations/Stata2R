@@ -25,10 +25,10 @@ packages. We will discuss our experiences in code translation and compare our re
 
 ## Prerequisates
 [150 words.]: #
-The talk/poster will focus on general software engineering methods so should be comprehensible to 
-most participants at RSECon. 
+The talk will focus on general software engineering methods so should be comprehensible to 
+nearly all participants at RSECon. 
 We assume no knowledge of the programming languages used, nor the inner workings of the 
-LLMs used for translation. The interest is in the developer and user experience of using large 
+LLMs used for translation. Our main interest is in the developer and user experience of using large 
 language models for translation.
 
 ## Outcomes
