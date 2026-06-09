@@ -16,7 +16,7 @@ Translation requires skills in the source and target language, and the research 
 Large language models (LLM) support translation by amalgamating language and domain specific knowledge from many sources.
 
 We will discuss our experiences in developing a Claude Code plugin that supports domain
-experts in statistics in translating Stata packages to R and Python.  
+experts in statistics in translating community contributed Stata packages to R and Python.  
 The plugin implements 4 skills;
 1. Analyse and plan: Is the package well documented? Which target language(s)? Create a new library or contribute to an existing library?
 1. Translation to pseudocode: Translate to pseudocode to support human review without language expertise. Excludes any existing tests.  
