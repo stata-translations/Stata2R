@@ -4,9 +4,21 @@
 This workshop is aimed at researchers and data scientists familiar with Stata. 
 
 ## Workshop Aims
+The workshop is intended to to develop attendees' skills in code translation and interpretation, as well as gathering information on the usefulness of the translation methods used.
+
+### Skills Development
 The workshop aims to develop skills in translating code from Stata to other languages. Stata has a significantly smaller user base compared to languages like R and Python, so enabling translation of existing Stata code may lead to greater research impact. 
 
-During the workshop we will translate the code including any grapichical user interfaces, documentation and examples. In addition we will implement support for best practice in open source development, including continuous integration tests and code coverage metrics.  
+During the workshop we will translate the code including any graphical user interfaces, documentation and examples. In addition we will implement support for best practice in open source development, including continuous integration tests and code coverage metrics.  
+
+### Research Aims
+The use of Large Language Models and coding agents to translate software is a rapidly developing field, with limited data available on the success or otherwise of translation methods. The second aim of the workshop is to record participants views and user experience of using the 
+translation methods, and to assess the quality/completeness of any resulting translations. 
+To support this there will be pre and post workshop surveys.
+Link to pre-workshop survey
+[Link to post-workshop survey.]
+(https://forms.office.com/Pages/DesignPageV2.aspx?groupid=02142d48-11dc-4af4-9e14-9178f05dfbd7&subpage=design&id=_oivH5ipW0yTySEKEdmlwkgtFALcEfRKnhSRePBd-9dUQjI1SzdIT1pROVBHVDJSNDU3QUNZVTBGTiQlQCN0PWcu)
+
 
 ## Workshop format
 This is intended to be run as a 2 to 4 hour workshop where participants will
