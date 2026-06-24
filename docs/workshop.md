@@ -26,7 +26,7 @@ suitability of any resulting packages.
 | 13:00 to 13:20 | Introduction - Fill in [Pre Workshop Surveys](https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?subpage=design&FormId=_oivH5ipW0yTySEKEdmlwuNcJ7ofdGhDpRexUha3NYhUMU5QQ000NVpFTVRKRTEzRDRCQ0w4V05XMS4u&Token=409a4539b2494331b09f760446f1032e)- Check Pre-Requisites |
 | 13:20 to 13:40 | Talk Through of Plugin Architecture and Points to Consider When Translating Code.|
 | 13:40 to 14:50 | Interactively translate Stata packages to other languages. (each participant will work through a particular package, but the workflow will be the same for all)|
-| 14:50 to 15:10 |Break|
+| 14:50 to 15:10 | 🍰 Break 🍰 |
 | 15:10 to 16:30 |Run translated Code, compare different translations. Assess code translation efforts against criteria listed in post workshop survey.|
 | 16:30 to 17:00 | Wrap-up/discussion/ Fill in [post work shop surveys](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=_oivH5ipW0yTySEKEdmlwkgtFALcEfRKnhSRePBd-9dUQjI1SzdIT1pROVBHVDJSNDU3QUNZVTBGTiQlQCN0PWcu&Token=f4b2e858071244d8916b09d1fde3e573).|
    
