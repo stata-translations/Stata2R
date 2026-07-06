@@ -40,7 +40,7 @@ Depending on the size of the Stata package to be translated, several of the skil
 Before attending the workshop you should have ... 
 
 ### Essential
- - installed Claude Code and have a subscription see [Claude Code quickstart](https://code.claude.com/docs/en/quickstart). You should be able to run the workshop using either the command line interface, or using the [Claude Code Desktop app.](https://code.claude.com/docs/en/desktop).
+ - installed Claude Code and have a subscription see [Claude Code quickstart](https://code.claude.com/docs/en/quickstart). You should be able to run the workshop using either the command line interface, or using the [Claude Code Desktop app.](https://code.claude.com/docs/en/desktop)
  - Stata installed [if you're based at UCL](https://swdb.ucl.ac.uk/package/view/id/326)
  - an R installation [r-project](https://www.r-project.org/)
  - a Stata package that you are interested in translating. It doesn't have to be one you wrote, but you should be familiar with what it does. 
