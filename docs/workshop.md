@@ -23,12 +23,12 @@ suitability of any resulting packages.
 
 | Time | Content |
 |------|---------|
-| 13:00 to 13:20 | Introduction - Fill in [Pre Workshop Surveys](https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?subpage=design&FormId=_oivH5ipW0yTySEKEdmlwuNcJ7ofdGhDpRexUha3NYhUMU5QQ000NVpFTVRKRTEzRDRCQ0w4V05XMS4u&Token=409a4539b2494331b09f760446f1032e)- Check Pre-Requisites |
+| 13:00 to 13:20 | Introduction - Fill in [Pre Workshop Surveys](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwuNcJ7ofdGhDpRexUha3NYhUMU5QQ000NVpFTVRKRTEzRDRCQ0w4V05XMS4u) - Check Pre-Requisites |
 | 13:20 to 13:40 | Talk Through of Plugin Architecture and Points to Consider When Translating Code.|
 | 13:40 to 14:50 | Interactively translate Stata packages to other languages. (each participant will work through a particular package, but the workflow will be the same for all)|
 | 14:50 to 15:10 | 🍰 Break 🍰 |
 | 15:10 to 16:30 |Run translated Code, compare different translations. Assess code translation efforts against criteria listed in post workshop survey.|
-| 16:30 to 17:00 | Wrap-up/discussion/ Fill in [post work shop surveys](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=_oivH5ipW0yTySEKEdmlwkgtFALcEfRKnhSRePBd-9dUQjI1SzdIT1pROVBHVDJSNDU3QUNZVTBGTiQlQCN0PWcu&Token=f4b2e858071244d8916b09d1fde3e573).|
+| 16:30 to 17:00 | Wrap-up/discussion/ Fill in [post work shop surveys](https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwkgtFALcEfRKnhSRePBd-9dUQjI1SzdIT1pROVBHVDJSNDU3QUNZVTBGTiQlQCN0PWcu).|
    
 During the workshop we will use a Claude Code plugin developed for Stata translation [Stata2R](https://github.com/stata-translations/Stata2R). The plugin 
 contains a set of `skills` that guide Claude Code in creating a well structured code translation. We will work through each skill in sequence. As we do this
@@ -191,7 +191,7 @@ At the end of the process there should be new tests in the tests directory along
 
 You should now have a translation of the Stata package in R. Try using it. Keep a note of any bugs or discrepancies with the Stata package you find. Discuss the process with others and ask questions. How well did Claude perform each step? Is the translated package useable and trustworthy?
 
-Complete the [post work shop survey.](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=_oivH5ipW0yTySEKEdmlwkgtFALcEfRKnhSRePBd-9dUQjI1SzdIT1pROVBHVDJSNDU3QUNZVTBGTiQlQCN0PWcu&Token=f4b2e858071244d8916b09d1fde3e573)
+Complete the [post work shop survey.](https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwkgtFALcEfRKnhSRePBd-9dUQjI1SzdIT1pROVBHVDJSNDU3QUNZVTBGTiQlQCN0PWcu)
 
 # Todo
 
