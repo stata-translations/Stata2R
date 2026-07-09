@@ -191,6 +191,8 @@ At the end of the process there should be new tests in the tests directory along
 
 You should now have a translation of the Stata package in R. Try using it. Keep a note of any bugs or discrepancies with the Stata package you find. Discuss the process with others and ask questions. How well did Claude perform each step? Is the translated package useable and trustworthy?
 
+Complete the [post work shop survey.](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=_oivH5ipW0yTySEKEdmlwkgtFALcEfRKnhSRePBd-9dUQjI1SzdIT1pROVBHVDJSNDU3QUNZVTBGTiQlQCN0PWcu&Token=f4b2e858071244d8916b09d1fde3e573)
+
 # Todo
 
 If the recommendation was translate to a different language we could try that. There is a `pseudocode-to-python` skill [here](https://github.com/ArabelaTso/Skills-4-SE/tree/main/skills/pseudocode-to-python-code) which may be a good place to start. 
