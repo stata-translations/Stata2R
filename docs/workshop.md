@@ -82,6 +82,13 @@ You can confirm that this has worked with
 The large language models that Claude Code uses are probabilstic, we can consider them non deterministic. The important implication for this workshop is that we're all going to get different results, and the human evaluation steps at the end are very important.
 
 ### Determine the Code Translation Strategy
+Before running this, if you're using the Desktop app you may want to increase the verbosity 
+of the terminal output (I prefer to see more output).
+
+⚠️ When running this excercise on your laptop, Claude Code may read the contents of various files on your harddrive including passwords or sensisitive information. Good practice is 
+to limit Claude Code's operations to specfic folders, and to read any prompts for permission 
+to run to make sure that this is maintained.
+
 The first skill we will use will inform our approach for the rest of the session. 
 ```
 /stata-translation:translation-strategy 
