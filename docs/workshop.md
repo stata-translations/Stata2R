@@ -89,6 +89,8 @@ of the terminal output (I prefer to see more output).
 to limit Claude Code's operations to specfic folders, and to read any prompts for permission 
 to run to make sure that this is maintained.
 
+❗Before running the following, pick a model and an effort. Claude Desktop has an easy interactive model setting feature. It would be a good idea if different participants pick different models, so we can compare outputs.
+
 The first skill we will use will inform our approach for the rest of the session. 
 ```
 /stata-translation:translation-strategy 
