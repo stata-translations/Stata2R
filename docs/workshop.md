@@ -75,6 +75,11 @@ You can confirm that this has worked with
 ```
 /stata-translation:hello
 ```
+❓Did you get the same response as other people❓
+
+❓Do you get the same response each time you run hello❓
+
+The large language models that Claude Code uses are probabilstic, we can consider them non deterministic. The important implication for this workshop is that we're all going to get different results, and the human evaluation steps at the end are very important.
 
 ### Determine the Code Translation Strategy
 The first skill we will use will inform our approach for the rest of the session. 
