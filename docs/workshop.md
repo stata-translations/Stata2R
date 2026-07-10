@@ -27,6 +27,7 @@ suitability of any resulting packages.
 | 13:20 to 13:40 | Talk Through of Plugin Architecture and Points to Consider When Translating Code.|
 | 13:40 to 14:50 | Interactively translate Stata packages to other languages. (each participant will work through a particular package, but the workflow will be the same for all)|
 | 14:50 to 15:10 | 🍰 Break 🍰 |
+| 15:00 | 🔥 Fire alarm test 🔥 |
 | 15:10 to 16:30 |Run translated Code, compare different translations. Assess code translation efforts against criteria listed in post workshop survey.|
 | 16:30 to 17:00 | Wrap-up/discussion/ Fill in [post work shop surveys](https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwkgtFALcEfRKnhSRePBd-9dUQjI1SzdIT1pROVBHVDJSNDU3QUNZVTBGTiQlQCN0PWcu).|
    
@@ -89,7 +90,7 @@ of the terminal output (I prefer to see more output).
 to limit Claude Code's operations to specfic folders, and to read any prompts for permission 
 to run to make sure that this is maintained.
 
-❗Before running the following, pick a model and an effort. Claude Desktop has an easy interactive model setting feature. It would be a good idea if different participants pick different models, so we can compare outputs.
+❗Before running the following, [pick a model](https://platform.claude.com/docs/en/about-claude/models/overview) and an effort. Claude Desktop has an easy interactive model setting feature. It would be a good idea if different participants pick different models, so we can compare outputs. 
 
 The first skill we will use will inform our approach for the rest of the session. 
 ```
