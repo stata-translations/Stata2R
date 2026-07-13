@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Stata2R"
+abstract: >-
+  A Claude plugin to aid translation of Stata packages to other software
+  languages, primarily R and Python. The aim is to increase the impact of
+  well written and tested Stata packages by translating them to more widely
+  used programming languages.
+authors:
+  - family-names: Thompson
+    given-names: Stephen
+    email: s.thompson@ucl.ac.uk
+    affiliation: University College London
+    orcid: "https://orcid.org/0000-0001-7286-1326"
+  - family-names: Tamuri
+    given-names: Asif
+    orcid: "https://orcid.org/0000-0001-6633-3789"
+  - family-names: Pérez-Suárez
+    given-names: David
+    orcid: "https://orcid.org/0000-0003-0784-6909"
+repository-code: "https://github.com/stata-translations/Stata2R"
+license: Apache-2.0
+version: 0.0.1
+date-released: "2026-07-10"
